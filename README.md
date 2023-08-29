@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Amedroid0 :]
-- - 👀 I’m interested in Mobile Development 📱
+- 👀 I’m interested in Mobile Development 📱
 - 🌱 I’m currently learning Android 🤖
 
 <!---
